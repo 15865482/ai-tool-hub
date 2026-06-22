@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "chatbot",
+    "name": "AI 对话",
+    "icon": "🤖",
+    "description": "智能对话助手，解答问题、创作内容、编程辅助"
+  },
+  {
+    "slug": "image",
+    "name": "AI 绘画",
+    "icon": "🎨",
+    "description": "文生图、图生图，释放视觉创造力"
+  },
+  {
+    "slug": "writing",
+    "name": "AI 写作",
+    "icon": "✍️",
+    "description": "文章生成、文案优化、多语言翻译"
+  },
+  {
+    "slug": "video",
+    "name": "AI 视频",
+    "icon": "🎬",
+    "description": "视频生成、编辑、特效，影视级创作"
+  },
+  {
+    "slug": "coding",
+    "name": "AI 编程",
+    "icon": "💻",
+    "description": "代码补全、Bug 修复、全栈开发助手"
+  },
+  {
+    "slug": "music",
+    "name": "AI 音乐",
+    "icon": "🎵",
+    "description": "AI 作曲、编曲、音乐生成"
+  },
+  {
+    "slug": "productivity",
+    "name": "效率工具",
+    "icon": "📊",
+    "description": "知识管理、数据分析、自动化工作流"
+  },
+  {
+    "slug": "design",
+    "name": "AI 设计",
+    "icon": "🎯",
+    "description": "UI 设计、Logo 生成、PPT 制作"
+  }
+]
