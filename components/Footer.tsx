@@ -35,6 +35,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li><Link href="/about" className="text-sm text-gray-500 hover:text-blue-600">关于我们</Link></li>
               <li><Link href="/submit" className="text-sm text-gray-500 hover:text-blue-600">提交工具</Link></li>
+              <li><Link href="/privacy" className="text-sm text-gray-500 hover:text-blue-600">隐私政策</Link></li>
               <li><Link href="/sitemap.xml" className="text-sm text-gray-500 hover:text-blue-600">网站地图</Link></li>
             </ul>
           </div>
